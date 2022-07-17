@@ -1,0 +1,17 @@
+h1 {
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 15px;
+    color: black;
+}
+
+.copy-right-footer {
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 600px;
+    padding-left: 550px;
+
+}
